@@ -22,3 +22,13 @@ Key Insights
 
 
 The analysis indicates that Walmart leads in absolute revenue scale and exhibits characteristics consistent with a mature-stage corporation, including slower percentage growth and stable returns. Costco demonstrates the strongest revenue growth trajectory while maintaining stable net margins, suggesting scalable expansion supported by operational discipline. Target achieves higher net margins relative to peers but displays greater historical volatility, particularly during certain periods, indicating higher sensitivity to operational and leverage dynamics. The relationship between leverage and ROE was found to vary across companies, illustrating that increased debt does not consistently enhance shareholder returns and instead reflects nuanced capital structure tradeoffs.
+
+# Screenshots
+
+<img width="1909" height="862" alt="Screenshot 2026-03-09 130508" src="https://github.com/user-attachments/assets/a35ecb08-2b12-409a-bb70-f74852bda28d" />
+
+<img width="1903" height="875" alt="Screenshot 2026-03-09 130523" src="https://github.com/user-attachments/assets/2e379e02-db52-4378-bc80-1bd2636c9d92" />
+
+<img width="1905" height="867" alt="Screenshot 2026-03-09 130537" src="https://github.com/user-attachments/assets/255d08cb-5d2f-4dc7-a21b-36cca791611b" />
+
+
